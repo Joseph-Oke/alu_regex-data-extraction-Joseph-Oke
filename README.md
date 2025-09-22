@@ -19,5 +19,19 @@ from large unstructured text using Python's `re` module.
 - Time (12-hour and 24-hour formats)  
 - HTML tags  
 
-# Setup 
-Clone the repo and run the script using Python.
+# Setup Instructions
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Joseph-Oke/alu_regex-data-extraction-Joseph-Oke.git
+   cd alu_regex-data-extraction-Joseph-Oke
+   ```
+
+2. **Run the script**
+   - For Python:
+     ```bash
+     python alu-Regex.py
+     ```
+   
+# Author
+**Joseph Oke**
+Software Engineering Student | Full Stack Developer  
