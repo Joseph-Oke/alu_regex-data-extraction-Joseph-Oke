@@ -1,2 +1,16 @@
-# alu_regex-data-extraction-Joseph-Oke
-A concise collection of robust regular‐expression modules in Python designed to extract common data types; emails, URLs, phone numbers, credit‐card numbers, HTML tags, and currency amounts from unstructured text.
+alu_regex-data-extraction-Joseph-Oke
+
+# Project title
+Regex Data Extraction
+
+# Overview
+This project uses Regular Expressions to extract structured data (emails, URLs, phone numbers, etc.)
+from large unstructured text using Python's `re` module.
+
+## Features
+- Extracts 8 types of data
+- Handles edge cases (different phone, time, and currency formats)
+- Easily extendable with new regex patterns
+
+# Setup 
+Clone the repo and run the script using Python.
